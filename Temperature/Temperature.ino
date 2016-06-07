@@ -43,12 +43,12 @@
 #include "rgb_lcd_tiny.h"
 
 // ***
-// *** Connect the Dht22 to pin 6 on the ATtiny85.
+// *** Connect the DHT22 to Pin 6/PB1 on the ATtiny85.
 // ***
 #define DHT_PIN 1
 
 // ***
-// *** Connect an LED to pin 3 on the ATtiny85.
+// *** Connect an LED to Pin 2/PB3 on the ATtiny85.
 // ***
 #define LED_PIN 3
 
